@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Camarano 👋
 
-![Perfil](https://img.shields.io/badge/Felipe Camarano-blue)
+![Perfil](https://img.shields.io/badge/Felipe%20Camarano-blue)
 ![Email](https://img.shields.io/badge/Email-felipecamarano@gmail.com-orange)
 
 ## Sobre Mim
