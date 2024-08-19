@@ -23,10 +23,6 @@ Sou um entusiasta e programador em C. Tenho experiência em C, Python e Analise 
 ## 📫 Como me Encontrar
 
 Você pode me contatar por e-mail: [FelipeCamarano@gmail.com](mailto:FelipeCamarano@gmail.com)
-
-## 🤝 Colaborar
-
-Se você bater um papo, sinta-se à vontade para entrar em contato!
 <!--
 **DainSlash/DainSlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
