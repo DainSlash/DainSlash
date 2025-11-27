@@ -95,9 +95,9 @@ Alguns projetos que representam bem o tipo de coisa que eu gosto de construir:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DainSlash&show_icons=true&count_private=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCamarano&show_icons=true&count_private=true&theme=radical" alt="Estatísticas do GitHub" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DainSlash&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCamarano&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 
 </div>
 
